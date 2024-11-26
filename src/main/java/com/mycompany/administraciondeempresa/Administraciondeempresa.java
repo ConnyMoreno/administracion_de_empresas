@@ -11,6 +11,6 @@ package com.mycompany.administraciondeempresa;
 public class Administraciondeempresa {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("bienvenidos a la facultad de administracion de empresas");
     }
 }
